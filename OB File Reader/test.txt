@@ -1,0 +1,71 @@
+     2.10           OBSERVATION DATA    G (GPS)             RINEX VERSION / TYPE
+teqc  2006Sep26     WCDA Operator       20070102 00:10:42UTCPGM / RUN BY / DATE
+Solaris 5.9|UltraSparc IIi|cc -xarch=v9 SC5.5|=+-|*Sparc    COMMENT
+teqc  2006Sep26     WCDA Operator       20070102 00:10:30UTCCOMMENT
+teqc  2006Sep26     WCDA Operator       20070101 01:07:45UTCCOMMENT
+albh  WCDA-ACP   927000   Victoria BC Canada                MARKER NAME
+40129M003                                                   MARKER NUMBER
+PGC-WCDA            GEOL. SURV. CANADA                      OBSERVER / AGENCY
+1113                AOA BENCHMARK ACT   3.3.32.2N lk 99/07/2REC # / TYPE / VERS
+99442               AOAD/M_T        SCIS                    ANT # / TYPE
+ -2341332.8840 -3539049.5090  4745791.3600                  APPROX POSITION XYZ
+        0.1000        0.0000        0.0000                  ANTENNA: DELTA H/E/N
+     1     1                                                WAVELENGTH FACT L1/2
+     7    C1    P1    P2    L1    L2    S1    S2            # / TYPES OF OBSERV
+STATION INFORMATION EFFECTIVE FROM: 2005/10/12 16:45:00     COMMENT
+                                TO: CURRENT DATE (above)    COMMENT
+BIT 2 OF LLI FLAGS (+4) DATA COLLECTED UNDER 'AS' CONDITION COMMENT
+L1 PHASE CENTRE 0.110m ABOVE ARP                            COMMENT
+L2 PHASE CENTRE 0.128m ABOVE ARP                            COMMENT
+where ARP is the Antenna Reference Point for HI measurement COMMENT
+CONTACT gps@pgc.nrcan.gc.ca FOR ADDITIONAL INFORMATION      COMMENT
+    P1 =    P1  TurboRogue; =    Y1  Benchmark              COMMENT
+    L1 = L1(CA)                                             COMMENT
+    P2 =    P2  TurboRogue; =    Y2  Benchmark              COMMENT
+    L2 = L2(P2) TurboRogue; = L2(Y2) Benchmark              COMMENT
+ SNR is mapped to RINEX snr flag value [0-9]                COMMENT
+  L1 & L2: min(max(int(snr_dBHz/6), 0), 9)                  COMMENT
+  2007     1     1     0     0    0.0000000     GPS         TIME OF FIRST OBS
+                                                            END OF HEADER
+ 07  1  1  0  0 30.0000000  0 10G16G21G29G18G26G10G24G 6G15G 7
+  22578267.422    22578266.780    22578264.492    -8991956.318 5  -7006714.301 4
+        35.700          29.500
+  20690852.679    20690852.133    20690848.942   -22470324.232 7 -17509335.626 7
+        46.400          44.500
+  22701320.456    22701320.629    22701319.111    -9021869.452 4  -7030020.367 4
+        29.500          27.900
+  22434105.534    22434104.826    22434102.344   -12783984.120 6  -9961537.202 4
+        37.600          29.200
+  22683493.443    22683493.221    22683491.972    -8952249.058 4  -6975772.452 4
+        29.900          25.900
+  23465154.230    23465153.542    23465152.063    -5336932.207 4  -4158633.220 3
+        27.400          21.100
+  24832265.267    24832265.129    24832265.503     2088774.056 2   1627620.202
+        15.100           3.000
+  20868360.224    20868359.948    20868358.438   -19714726.615 7 -15362117.087 6
+        44.700          40.000
+  21657360.762    21657360.042    21657359.005   -15366702.392 6 -11974047.519 6
+        41.900          36.100
+  20422836.319    20422835.522    20422834.429   -22426072.926 7 -17474853.770 7
+        46.700          45.800
+ 07  1  1  0  1  0.0000000  0 10G16G21G29G18G26G10G24G 6G15G 7
+  22574947.767    22574947.426    22574945.339    -9009399.085 5  -7020306.048 4
+        35.800          29.200
+  20683635.371    20683634.707    20683631.525   -22508251.917 7 -17538889.654 7
+        46.300          44.500
+  22694495.101    22694494.829    22694493.221    -9057739.589 4  -7057971.115 4
+        29.700          27.100
+  22416992.746    22416992.489    22416989.992   -12873908.838 6 -10031608.394 4
+        37.500          28.600
+  22669548.214    22669548.566    22669547.090    -9025529.468 5  -7032874.033 4
+        30.200          25.600
+  23484684.814    23484684.273    23484682.545    -5234295.124 4  -4078656.253 3
+        25.900          18.600
+  24849791.216    24849790.611    24849790.403     2180869.515 2   1699382.883 9
+        16.100          -3.000
+  20879218.609    20879218.425    20879216.919   -19657664.952 7 -15317653.450 6
+        44.900          40.000
+  21643581.309    21643580.517    21643579.473   -15439114.961 6 -12030472.858 6
+        41.900          36.500
+  20427535.319    20427534.576    20427533.424   -22401379.165 7 -17455611.873 7
+        46.500          45.900

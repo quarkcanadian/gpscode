@@ -1,0 +1,50 @@
+     2.10           OBSERVATION DATA    G (GPS)             RINEX VERSION / TYPE
+teqc  2006Sep26     WCDA Operator       20070102 00:10:42UTCPGM / RUN BY / DATE
+Solaris 5.9|UltraSparc IIi|cc -xarch=v9 SC5.5|=+-|*Sparc    COMMENT
+teqc  2006Sep26     WCDA Operator       20070102 00:10:30UTCCOMMENT
+teqc  2006Sep26     WCDA Operator       20070101 01:07:45UTCCOMMENT
+albh  WCDA-ACP   927000   Victoria BC Canada                MARKER NAME
+40129M003                                                   MARKER NUMBER
+PGC-WCDA            GEOL. SURV. CANADA                      OBSERVER / AGENCY
+1113                AOA BENCHMARK ACT   3.3.32.2N lk 99/07/2REC # / TYPE / VERS
+99442               AOAD/M_T        SCIS                    ANT # / TYPE
+ -2341332.8840 -3539049.5090  4745791.3600                  APPROX POSITION XYZ
+        0.1000        0.0000        0.0000                  ANTENNA: DELTA H/E/N
+     1     1                                                WAVELENGTH FACT L1/2
+     7    C1    P1    P2    L1    L2    S1    S2            # / TYPES OF OBSERV
+STATION INFORMATION EFFECTIVE FROM: 2005/10/12 16:45:00     COMMENT
+                                TO: CURRENT DATE (above)    COMMENT
+BIT 2 OF LLI FLAGS (+4) DATA COLLECTED UNDER 'AS' CONDITION COMMENT
+L1 PHASE CENTRE 0.110m ABOVE ARP                            COMMENT
+L2 PHASE CENTRE 0.128m ABOVE ARP                            COMMENT
+where ARP is the Antenna Reference Point for HI measurement COMMENT
+CONTACT gps@pgc.nrcan.gc.ca FOR ADDITIONAL INFORMATION      COMMENT
+    P1 =    P1  TurboRogue; =    Y1  Benchmark              COMMENT
+    L1 = L1(CA)                                             COMMENT
+    P2 =    P2  TurboRogue; =    Y2  Benchmark              COMMENT
+    L2 = L2(P2) TurboRogue; = L2(Y2) Benchmark              COMMENT
+ SNR is mapped to RINEX snr flag value [0-9]                COMMENT
+  L1 & L2: min(max(int(snr_dBHz/6), 0), 9)                  COMMENT
+  2007     1     1     0     0    0.0000000     GPS         TIME OF FIRST OBS
+                                                            END OF HEADER
+ 07  1  1  0  0  0.0000000  0 10G16G21G29G18G26G10G24G 6G15G 7
+  22581697.779    22581697.177    22581695.185    -8973928.686 5  -6992666.811 4
+        35.200          29.700
+  20698127.927    20698127.404    20698124.106   -22432093.211 7 -17479545.229 7
+        46.500          44.400
+  22708251.212    22708251.090    22708249.232    -8985450.879 4  -7001642.266 4
+        29.000          27.400
+  22451273.511    22451272.930    22451270.463   -12693765.550 6  -9891237.036 4
+        37.700          29.500
+  22697532.473    22697532.196    22697531.042    -8878471.901 4  -6918283.801 4
+        29.000          25.600
+  23445664.779    23445663.158    23445663.052    -5439350.042 3  -4238439.310 3
+        23.800          23.000
+  24814742.490    24814742.709    24814742.229     1996691.316 2   1555867.444
+        13.900           3.000
+  20857582.237    20857582.016    20857580.516   -19771364.963 7 -15406250.872 6
+        44.800          40.000
+  21671184.139    21671183.584    21671182.620   -15294059.277 6 -11917442.534 6
+        41.800          36.200
+  20418227.176    20418226.502    20418225.415   -22450293.583 7 -17493727.016 7
+        46.800          45.900
